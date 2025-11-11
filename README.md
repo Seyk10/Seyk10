@@ -6,35 +6,37 @@ I am a Unity and C# game developer with experience in the indie industry.
 Currently, I collaborate with studios and clients to **turn concepts into playable experiences**, delivering both **technical reliability** and **creativity** in every project.
 
 🎮 **| Hard Skills |**
-> [!IMPORTANT]
-> **Programming** 
->
-> - OOP (Object Oriented Programming)
-> - DDP (Data Oriented Programming)
-> - EDP (Event Oriented Programming)
-> - ECS (Entity-Component-System Software Architecture)
-> - C# 
-> 
-> **Engines & Tools** 
-> - Unity (URP/HDRP) 
-> - Git / Plastic SCM / GitKraken
-> - Shader Graph / VFX Graph
-> - Odin Inspector and Serializer
-> - Unity Addressable Asset System
-> - Rewired
-> 
-> **Systems & Mechanics**  
-> - AI (Behavior Trees, FSM, GOAP)
-> - Gameplay programming
-> - Physics in video games
-> - UI / UX in videogames
+
+**Programming** 
+
+![https://img.shields.io/badge](https://img.shields.io/badge/OOP-Object_Oriented-blue) 
+![https://img.shields.io/badge](https://img.shields.io/badge/DDP-Data_Oriented-green)
+![https://img.shields.io/badge](https://img.shields.io/badge/EDP-Event_Oriented-red)
+![https://img.shields.io/badge](https://img.shields.io/badge/ECS-Entity_Component_System-purple)
+![https://img.shields.io/badge](https://img.shields.io/badge/CSharp-orange)
+
+**Engines & Tools** 
+
+![https://img.shields.io/badge](https://img.shields.io/badge/Unity-URP_HDRP-blue) 
+![https://img.shields.io/badge](https://img.shields.io/badge/Git-green)
+![https://img.shields.io/badge](https://img.shields.io/badge/Shader_Graph-VFX_Graph-red)
+![https://img.shields.io/badge](https://img.shields.io/badge/Odin_Inspector-Serializer-purple)
+![https://img.shields.io/badge](https://img.shields.io/badge/Unity_Addressable_Asset_System-orange)
+![https://img.shields.io/badge](https://img.shields.io/badge/Rewired-brown)
+
+**Systems & Mechanics** 
+
+![https://img.shields.io/badge](https://img.shields.io/badge/AI-blue) 
+![https://img.shields.io/badge](https://img.shields.io/badge/Gameplay_Programming-green)
+![https://img.shields.io/badge](https://img.shields.io/badge/Video_Games_Physics-red)
+![https://img.shields.io/badge](https://img.shields.io/badge/UI_UX-purple)
 
 🎯 **| Soft Skills |**
-> [!NOTE] 
-> - _Time_ management and _adaptability_.
-> - Teamwork and communication.
-> - _Problem solving and critical thinking._
-> - _Continuous_ learning.
+
+![https://img.shields.io/badge](https://img.shields.io/badge/Time_Management-Adaptability-blue) 
+![https://img.shields.io/badge](https://img.shields.io/badge/Teamwork-Communication-green)
+![https://img.shields.io/badge](https://img.shields.io/badge/Problem_Solving-Critical_Thinking-red)
+![https://img.shields.io/badge](https://img.shields.io/badge/Continuous_Learning-purple)
 
 ### About Me
 
